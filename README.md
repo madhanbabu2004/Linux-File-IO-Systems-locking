@@ -37,9 +37,9 @@ write(out,block,nread);
 exit(0);}
 ```
 ## OUTPUT
-```
--rwxr-xr-x    1 root     root         18348 Apr 17 14:14 file.o
-```
+
+![output](./a.png)
+
 ## 2.To Write a C program that illustrates files locking
 ```python
 #include <fcntl.h>
@@ -80,8 +80,8 @@ return 0;
 }
 ```
 ## OUTPUT
-```
--rwxr-xr-x    1 root     root         18376 Apr 25 09:04 text.o
-```
+
+![output](./b.png)
+
 # RESULT:
 The programs are executed successfully.
